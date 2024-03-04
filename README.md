@@ -1,6 +1,6 @@
 # Quicksort Comparison
 
-Comparing the runtime of 2 different Quicksort implementations.
+Comparing the runtimes of 2 different Quicksort implementations.
 
 ## How To
 
